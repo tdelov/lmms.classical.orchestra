@@ -10,7 +10,7 @@
       <track type="0" muted="0" name="Flutes" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="-26.8" fxch="1" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/WOODWINDS/Flutes.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="0" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/WOODWINDS/Flutes.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="0" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -26,7 +26,7 @@
       <track type="0" muted="0" name="Oboe" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="1" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/WOODWINDS/Double Reeds.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="4" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/WOODWINDS/Double Reeds.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="4" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -42,7 +42,7 @@
       <track type="0" muted="0" name="Clarinets" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="21.6" fxch="1" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/WOODWINDS/Clarinets.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="4" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/WOODWINDS/Clarinets.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="4" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -58,7 +58,7 @@
       <track type="0" muted="0" name="Basson" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="1" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/WOODWINDS/Double Reeds.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="8" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/WOODWINDS/Double Reeds.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="8" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -77,7 +77,7 @@
       <track type="0" muted="0" name="Horns" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="-23.8" fxch="2" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/BRASS/Horns.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="0" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/BRASS/Horns.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="0" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -93,7 +93,7 @@
       <track type="0" muted="0" name="Trombones" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="2" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/BRASS/Low Brass.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="2" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/BRASS/Low Brass.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="2" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -109,7 +109,7 @@
       <track type="0" muted="0" name="Trumpets" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="39.2" fxch="2" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/BRASS/Trumpets.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="3" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/BRASS/Trumpets.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="3" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -125,7 +125,7 @@
       <track type="0" muted="0" name="Tuba" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="2" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/BRASS/Low Brass.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="6" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/BRASS/Low Brass.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="6" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -144,7 +144,7 @@
       <track type="0" muted="0" name="1st Violin Sustained" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="3" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/STRINGS_KEYBOARDS/Strings.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="27" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/STRINGS_KEYBOARDS/Strings.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="27" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -160,7 +160,7 @@
       <track type="0" muted="0" name="2nd Violin Sustained" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="3" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/STRINGS_KEYBOARDS/Strings.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="29" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/STRINGS_KEYBOARDS/Strings.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="29" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -179,7 +179,7 @@
       <track type="0" muted="0" name="Harp" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="4" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/STRINGS_KEYBOARDS/Keyboards_Harp.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="10" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/STRINGS_KEYBOARDS/Keyboards_Harp.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="10" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -195,7 +195,7 @@
       <track type="0" muted="0" name="Grand Pianoe" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="4" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/STRINGS_KEYBOARDS/Keyboards_Harp.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="0" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/STRINGS_KEYBOARDS/Keyboards_Harp.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="0" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -211,7 +211,7 @@
       <track type="0" muted="0" name="Glockenspiel" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="4" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/PERCUSSION/Mallets.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="0" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/PERCUSSION/Mallets.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="0" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -227,7 +227,7 @@
       <track type="0" muted="0" name="Malets  - Vibraphone" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="4" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/PERCUSSION/Mallets.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="1" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/PERCUSSION/Mallets.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="1" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -246,7 +246,7 @@
       <track type="0" muted="0" name="Percussion" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="5" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/PERCUSSION/Percussion.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="19" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/PERCUSSION/Percussion.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="19" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
@@ -262,7 +262,7 @@
       <track type="0" muted="0" name="Triangle" solo="0">
         <instrumenttrack pitch="0" pitchrange="1" pan="0" fxch="5" usemasterpitch="1" vol="100" basenote="57">
           <instrument name="sf2player">
-            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="/Users/tdelov/Downloads/soubnds/SoundFonts/PERCUSSION/Percussion.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="15" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
+            <sf2player reverbOn="0" reverbLevel="0.9" chorusLevel="2" chorusOn="0" src="SoundFonts/PERCUSSION/Percussion.sf2" reverbDamping="0" chorusSpeed="0.3" bank="0" patch="15" reverbRoomSize="0.2" reverbWidth="0.5" gain="1" chorusNum="3" chorusDepth="8"/>
           </instrument>
           <eldata ftype="0" fwet="0" fres="0.5" fcut="14000">
             <elvol lspd="0.1" userwavefile="" pdel="0" rel="0.1" hold="0.5" dec="0.5" latt="0" att="0" sustain="0.5" lamt="0" amt="0" lspd_syncmode="0" lspd_numerator="4" lshp="0" lspd_denominator="4" lpdel="0" x100="0" ctlenvamt="0"/>
